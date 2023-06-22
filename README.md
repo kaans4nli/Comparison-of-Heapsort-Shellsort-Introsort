@@ -1,7 +1,7 @@
 # Comparison-of-Heapsort-Shellsort-Introsort
-In the heapSort method, implement a maximum heap to sort the given array.
+* In the heapSort method, implement a maximum heap to sort the given array.
 
-In the shellSort method, implement an improved version of the insertion sort algorithm.
+* In the shellSort method, implement an improved version of the insertion sort algorithm.
 
 ![image](https://github.com/kaans4nli/Comparison-of-Heapsort-Shellsort-Introsort/assets/107371841/6fa16636-4232-4d85-be5e-50f2214aab23)
 
@@ -9,6 +9,6 @@ The first pass, 5-sorting, performs insertion sort on five separate subarrays (a
 
 Researchers have published different approaches for gap sequences. Used Shell’s original sequence, which is ⌊N/2 , N/4 , …, 1⌋.
 
-In the introSort method, implement a hybrid sorting algorithm. When the recursion depth exceeds a level based on (the logarithm of) the number of elements being sorted. The maximum recursion depth is defined as follows.
+* In the introSort method, implement a hybrid sorting algorithm. When the recursion depth exceeds a level based on (the logarithm of) the number of elements being sorted. The maximum recursion depth is defined as follows.
 
   maxdepth = [log(length(Input))] × 2
