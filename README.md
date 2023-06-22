@@ -1,5 +1,6 @@
 # Comparison-of-Heapsort-Shellsort-Introsort
 In the heapSort method, implement a maximum heap to sort the given array.
+
 In the shellSort method, implement an improved version of the insertion sort algorithm.
 
 ![image](https://github.com/kaans4nli/Comparison-of-Heapsort-Shellsort-Introsort/assets/107371841/6fa16636-4232-4d85-be5e-50f2214aab23)
